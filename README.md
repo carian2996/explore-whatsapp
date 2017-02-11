@@ -1,6 +1,6 @@
 # Explore WhatsApp
 
-![inProcess](shields/inProcess.svg) ![R](shields/R.svg) ![shiny](shields/shiny.svg) ![beerPay](shields/beerPay.svg)
+![inProcess](https://img.shields.io/badge/build-in--process-orange.svg?style=flat-square) ![R](https://img.shields.io/badge/R-v3.2.2-blue.svg?style=flat-square) ![shiny](https://img.shields.io/badge/shiny-v1.0.0-blue.svg?style=flat-square) ![beerPay](https://img.shields.io/badge/beerpay-$0-brightgreen.svg?style=flat-square)
 
 **Explore WhatsApp** is an project aimed to analyze chat data. And fun!
 
