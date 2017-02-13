@@ -2,7 +2,7 @@
 
 ![inProcess](https://img.shields.io/badge/build-in--process-orange.svg?style=flat-square) ![R](https://img.shields.io/badge/R-v3.2.2-blue.svg?style=flat-square) ![shiny](https://img.shields.io/badge/shiny-v1.0.0-blue.svg?style=flat-square) ![beerPay](https://img.shields.io/badge/beerpay-$0-brightgreen.svg?style=flat-square)
 
-**Explore WhatsApp** is an project aimed to analyze chat data. And fun!
+**Explore WhatsApp** is a project aimed to analyze chat data. And fun!
 
 In this early stages, the app only realizes basic exploratory analysis of chat text. I've included the next features:
 
