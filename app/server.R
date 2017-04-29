@@ -191,7 +191,7 @@ shinyServer(function(input, output, session) {
         ggplot(reaction()$dailyUserChat, aes(x = dateTime, y = total, colour = user)) +
             stat_smooth(se = F) + 
             geom_point() +
-            labs(x = "Fecha", y = "Mensajes") +
+            labs(x = "Date", y = "Message") +
             theme(axis.text.x = element_text(angle = 45, hjust = 1), 
                   panel.background = element_blank(), 
                   legend.position=c(1,1),
